@@ -1,0 +1,17 @@
+node_modules/
+dist/
+target/
+.env
+.env.*
+!.env.example
+*.log
+.idea/
+.vscode/
+
+frontend/AdminPasswordReset.java
+
+# Generated and temporary files
+.m2/
+.maven/
+*.class
+*.err
